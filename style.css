@@ -1,0 +1,61 @@
+h1 {
+	color: green;
+}
+div {
+	margin-bottom: 10px;
+}
+h2 {
+	margin: 0px;
+	font-family: sans-serif;
+}
+.nav {
+	height: 100px;
+	background-color: blue;
+}
+.hero {
+	height: 300px;
+	background-color: yellow;
+}
+.about {
+	height: 300px;
+	width: 60%;
+	background-color: pink;
+	float: left;
+}
+.social {
+	height: 300px;
+	width: 39%;
+	background-color: orange;
+	float: left;
+	margin-left: 1%;
+}
+.case {
+	height: 300px;
+	background-color: red;
+	clear: both;
+}
+.who {
+	height: 300px;
+	background-color: grey;
+	float: left;
+	width: 32.7%;
+}
+.what {
+	height: 300px;
+	background-color: navy;
+	float: left;
+	width: 32.6%;
+	margin-left: 1%;
+}
+.join {
+	height: 300px;
+	background-color: purple;
+	float: left;
+	width: 32.7%;
+	margin-left: 1%;
+}
+.study {
+	height: 100px;
+	background-color: lime;
+	clear: both;
+}
